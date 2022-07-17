@@ -1,5 +1,1 @@
-kto
-ya a ti?
-print('hello world')
-da ya!
-da2
+2123
